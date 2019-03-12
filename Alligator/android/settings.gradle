@@ -1,0 +1,3 @@
+rootProject.name = 'Alligator'
+
+include ':app'
